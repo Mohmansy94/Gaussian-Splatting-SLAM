@@ -17,3 +17,12 @@ They serve as valuable benchmarks for evaluating SLAM methodologies in tracking,
 - **Link**: [TUM RGB-D Dataset](https://cvg.cit.tum.de/data/datasets/rgbd-dataset)
 
 ---
+
+### 2. **ScanNet**
+- **Description**: Real-world indoor RGB-D dataset with 2.5M images from 1513 scans.
+- **Features**:
+  - 3D surface reconstructions and textured meshes.
+  - Detailed semantic segmentations.
+  - Aligned CAD models.
+- **Applications**: Semantic mapping and 3D reconstruction.
+- **Link**: [ScanNet](http://www.scan-net.org/)
